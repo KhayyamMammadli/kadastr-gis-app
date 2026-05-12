@@ -1,0 +1,681 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-P-001",
+        "name": "Parcel zonası yolu 1",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.831,
+            40.391
+          ],
+          [
+            49.834,
+            40.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-P-002",
+        "name": "Parcel zonası yolu 2",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.834,
+            40.391
+          ],
+          [
+            49.837,
+            40.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-P-003",
+        "name": "Parcel zonası yolu 3",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.837,
+            40.391
+          ],
+          [
+            49.84,
+            40.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-P-004",
+        "name": "Parcel zonası yolu 4",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.84,
+            40.391
+          ],
+          [
+            49.843,
+            40.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-P-005",
+        "name": "Parcel zonası yolu 5",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.843,
+            40.391
+          ],
+          [
+            49.846000000000004,
+            40.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-P-006",
+        "name": "Parcel zonası yolu 6",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.846000000000004,
+            40.391
+          ],
+          [
+            49.849000000000004,
+            40.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-P-007",
+        "name": "Parcel zonası yolu 7",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.849000000000004,
+            40.391
+          ],
+          [
+            49.852000000000004,
+            40.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-P-008",
+        "name": "Parcel zonası yolu 8",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.852000000000004,
+            40.391
+          ],
+          [
+            49.855000000000004,
+            40.415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-001",
+        "name": "Yeni Günəşli yolu 1",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.933,
+            40.377
+          ],
+          [
+            49.937,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-002",
+        "name": "Yeni Günəşli yolu 2",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9353,
+            40.377
+          ],
+          [
+            49.939299999999996,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-003",
+        "name": "Yeni Günəşli yolu 3",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9376,
+            40.377
+          ],
+          [
+            49.9416,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-004",
+        "name": "Yeni Günəşli yolu 4",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9399,
+            40.377
+          ],
+          [
+            49.9439,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-005",
+        "name": "Yeni Günəşli yolu 5",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9422,
+            40.377
+          ],
+          [
+            49.9462,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-006",
+        "name": "Yeni Günəşli yolu 6",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9445,
+            40.377
+          ],
+          [
+            49.948499999999996,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-007",
+        "name": "Yeni Günəşli yolu 7",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9468,
+            40.377
+          ],
+          [
+            49.9508,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-008",
+        "name": "Yeni Günəşli yolu 8",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9491,
+            40.377
+          ],
+          [
+            49.9531,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-009",
+        "name": "Yeni Günəşli yolu 9",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9514,
+            40.377
+          ],
+          [
+            49.9554,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-G-010",
+        "name": "Yeni Günəşli yolu 10",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9537,
+            40.377
+          ],
+          [
+            49.957699999999996,
+            40.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-X-001",
+        "name": "Xırdalan yolu 1",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.731,
+            40.444
+          ],
+          [
+            49.736,
+            40.457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-X-002",
+        "name": "Xırdalan yolu 2",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.735,
+            40.444
+          ],
+          [
+            49.739999999999995,
+            40.457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-X-003",
+        "name": "Xırdalan yolu 3",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.739000000000004,
+            40.444
+          ],
+          [
+            49.744,
+            40.457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-X-004",
+        "name": "Xırdalan yolu 4",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.743,
+            40.444
+          ],
+          [
+            49.748,
+            40.457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-X-005",
+        "name": "Xırdalan yolu 5",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.747,
+            40.444
+          ],
+          [
+            49.751999999999995,
+            40.457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-X-006",
+        "name": "Xırdalan yolu 6",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.751000000000005,
+            40.444
+          ],
+          [
+            49.756,
+            40.457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-X-007",
+        "name": "Xırdalan yolu 7",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.755,
+            40.444
+          ],
+          [
+            49.76,
+            40.457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD-X-008",
+        "name": "Xırdalan yolu 8",
+        "type": "road",
+        "category": "Yol",
+        "floors": 0,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.759,
+            40.444
+          ],
+          [
+            49.763999999999996,
+            40.457
+          ]
+        ]
+      }
+    }
+  ]
+}

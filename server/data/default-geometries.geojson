@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "AZ-KDR-1001",
+      "properties": {
+        "id": "AZ-KDR-1001",
+        "name": "Kadastr sahəsi 1001",
+        "type": "parcel",
+        "status": "Aktiv",
+        "color": "#1677ff",
+        "owner": "Dövlət mülkiyyəti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.835,
+              40.392
+            ],
+            [
+              49.848,
+              40.394
+            ],
+            [
+              49.846,
+              40.404
+            ],
+            [
+              49.833,
+              40.401
+            ],
+            [
+              49.835,
+              40.392
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AZ-KDR-1002",
+      "properties": {
+        "id": "AZ-KDR-1002",
+        "name": "Kadastr sahəsi 1002",
+        "type": "parcel",
+        "status": "Baxışda",
+        "color": "#52c41a",
+        "owner": "Bələdiyyə"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.852,
+              40.397
+            ],
+            [
+              49.867,
+              40.396
+            ],
+            [
+              49.871,
+              40.407
+            ],
+            [
+              49.855,
+              40.41
+            ],
+            [
+              49.852,
+              40.397
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AZ-KDR-1003",
+      "properties": {
+        "id": "AZ-KDR-1003",
+        "name": "Kadastr sahəsi 1003",
+        "type": "parcel",
+        "status": "Aktiv",
+        "color": "#fa8c16",
+        "owner": "Fiziki şəxs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.827,
+              40.406
+            ],
+            [
+              49.841,
+              40.41
+            ],
+            [
+              49.838,
+              40.421
+            ],
+            [
+              49.823,
+              40.418
+            ],
+            [
+              49.827,
+              40.406
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

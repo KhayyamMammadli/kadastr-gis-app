@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "latest",
+    "cors": "latest",
+    "express": "latest"
+  }
+}

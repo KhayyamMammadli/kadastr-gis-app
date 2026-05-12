@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-P-001",
+        "name": "Aptek",
+        "type": "object",
+        "category": "Parkinq",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.835,
+          40.395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-P-002",
+        "name": "Məktəb",
+        "type": "object",
+        "category": "Parkinq",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.839,
+          40.398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-P-003",
+        "name": "Market",
+        "type": "object",
+        "category": "Ticarət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.843,
+          40.401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-P-004",
+        "name": "Market",
+        "type": "object",
+        "category": "Xidmət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.847,
+          40.395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-P-005",
+        "name": "Parkinq",
+        "type": "object",
+        "category": "Xidmət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.851,
+          40.398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-P-006",
+        "name": "Parkinq",
+        "type": "object",
+        "category": "Parkinq",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.855000000000004,
+          40.401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-P-007",
+        "name": "Klinika",
+        "type": "object",
+        "category": "Xidmət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.859,
+          40.395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-P-008",
+        "name": "Məktəb",
+        "type": "object",
+        "category": "Ticarət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.863,
+          40.398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-G-001",
+        "name": "Supermarket",
+        "type": "object",
+        "category": "Ticarət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.938,
+          40.381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-G-002",
+        "name": "Aptek",
+        "type": "object",
+        "category": "Ticarət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.943,
+          40.383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-G-003",
+        "name": "Məktəb",
+        "type": "object",
+        "category": "Sosial obyekt",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.947,
+          40.384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-G-004",
+        "name": "Parkinq",
+        "type": "object",
+        "category": "Parkinq",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.951,
+          40.381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-G-005",
+        "name": "Kafe",
+        "type": "object",
+        "category": "Ticarət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.941,
+          40.386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-G-006",
+        "name": "Poliklinika",
+        "type": "object",
+        "category": "Sosial obyekt",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.952,
+          40.385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-X-001",
+        "name": "Ticarət mərkəzi",
+        "type": "object",
+        "category": "Ticarət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.737,
+          40.448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-X-002",
+        "name": "Məktəb",
+        "type": "object",
+        "category": "Sosial obyekt",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.745,
+          40.451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-X-003",
+        "name": "Aptek",
+        "type": "object",
+        "category": "Ticarət obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.752,
+          40.447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-X-004",
+        "name": "Parkinq",
+        "type": "object",
+        "category": "Parkinq",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.759,
+          40.452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-X-005",
+        "name": "Klinika",
+        "type": "object",
+        "category": "Sosial obyekt",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.766,
+          40.449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OBJ-X-006",
+        "name": "Anbar",
+        "type": "object",
+        "category": "Sənaye obyekti",
+        "floors": 1,
+        "apartments": 0,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.771,
+          40.455
+        ]
+      }
+    }
+  ]
+}

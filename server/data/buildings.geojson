@@ -1,0 +1,3605 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-001",
+        "name": "Parcel ətrafı bina 1",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.834,
+              40.393
+            ],
+            [
+              49.835,
+              40.39312
+            ],
+            [
+              49.83494,
+              40.39385
+            ],
+            [
+              49.833920000000006,
+              40.393782
+            ],
+            [
+              49.834,
+              40.393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-002",
+        "name": "Parcel ətrafı bina 2",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 54,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.836200000000005,
+              40.393
+            ],
+            [
+              49.8372,
+              40.39312
+            ],
+            [
+              49.837140000000005,
+              40.39385
+            ],
+            [
+              49.83612000000001,
+              40.393782
+            ],
+            [
+              49.836200000000005,
+              40.393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-003",
+        "name": "Parcel ətrafı bina 3",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 36,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.8384,
+              40.393
+            ],
+            [
+              49.8394,
+              40.39312
+            ],
+            [
+              49.83934,
+              40.39385
+            ],
+            [
+              49.83832,
+              40.393782
+            ],
+            [
+              49.8384,
+              40.393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-004",
+        "name": "Parcel ətrafı bina 4",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 96,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.8406,
+              40.393
+            ],
+            [
+              49.8416,
+              40.39312
+            ],
+            [
+              49.84154,
+              40.39385
+            ],
+            [
+              49.840520000000005,
+              40.393782
+            ],
+            [
+              49.8406,
+              40.393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-005",
+        "name": "Parcel ətrafı bina 5",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 96,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.842800000000004,
+              40.393
+            ],
+            [
+              49.8438,
+              40.39312
+            ],
+            [
+              49.843740000000004,
+              40.39385
+            ],
+            [
+              49.84272000000001,
+              40.393782
+            ],
+            [
+              49.842800000000004,
+              40.393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-006",
+        "name": "Parcel ətrafı bina 6",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 72,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.845000000000006,
+              40.393
+            ],
+            [
+              49.846000000000004,
+              40.39312
+            ],
+            [
+              49.845940000000006,
+              40.39385
+            ],
+            [
+              49.84492000000001,
+              40.393782
+            ],
+            [
+              49.845000000000006,
+              40.393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-007",
+        "name": "Parcel ətrafı bina 7",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 96,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.834,
+              40.3949
+            ],
+            [
+              49.835,
+              40.39502
+            ],
+            [
+              49.83494,
+              40.39575
+            ],
+            [
+              49.833920000000006,
+              40.395682
+            ],
+            [
+              49.834,
+              40.3949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-008",
+        "name": "Parcel ətrafı bina 8",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 72,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.836200000000005,
+              40.3949
+            ],
+            [
+              49.8372,
+              40.39502
+            ],
+            [
+              49.837140000000005,
+              40.39575
+            ],
+            [
+              49.83612000000001,
+              40.395682
+            ],
+            [
+              49.836200000000005,
+              40.3949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-009",
+        "name": "Parcel ətrafı bina 9",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 72,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.8384,
+              40.3949
+            ],
+            [
+              49.8394,
+              40.39502
+            ],
+            [
+              49.83934,
+              40.39575
+            ],
+            [
+              49.83832,
+              40.395682
+            ],
+            [
+              49.8384,
+              40.3949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-010",
+        "name": "Parcel ətrafı bina 10",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 36,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.8406,
+              40.3949
+            ],
+            [
+              49.8416,
+              40.39502
+            ],
+            [
+              49.84154,
+              40.39575
+            ],
+            [
+              49.840520000000005,
+              40.395682
+            ],
+            [
+              49.8406,
+              40.3949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-011",
+        "name": "Parcel ətrafı bina 11",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 72,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.842800000000004,
+              40.3949
+            ],
+            [
+              49.8438,
+              40.39502
+            ],
+            [
+              49.843740000000004,
+              40.39575
+            ],
+            [
+              49.84272000000001,
+              40.395682
+            ],
+            [
+              49.842800000000004,
+              40.3949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-012",
+        "name": "Parcel ətrafı bina 12",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 72,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.845000000000006,
+              40.3949
+            ],
+            [
+              49.846000000000004,
+              40.39502
+            ],
+            [
+              49.845940000000006,
+              40.39575
+            ],
+            [
+              49.84492000000001,
+              40.395682
+            ],
+            [
+              49.845000000000006,
+              40.3949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-013",
+        "name": "Parcel ətrafı bina 13",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 36,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.834,
+              40.3968
+            ],
+            [
+              49.835,
+              40.39692
+            ],
+            [
+              49.83494,
+              40.39765
+            ],
+            [
+              49.833920000000006,
+              40.397582
+            ],
+            [
+              49.834,
+              40.3968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-014",
+        "name": "Parcel ətrafı bina 14",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 36,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.836200000000005,
+              40.3968
+            ],
+            [
+              49.8372,
+              40.39692
+            ],
+            [
+              49.837140000000005,
+              40.39765
+            ],
+            [
+              49.83612000000001,
+              40.397582
+            ],
+            [
+              49.836200000000005,
+              40.3968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-015",
+        "name": "Parcel ətrafı bina 15",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 72,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.8384,
+              40.3968
+            ],
+            [
+              49.8394,
+              40.39692
+            ],
+            [
+              49.83934,
+              40.39765
+            ],
+            [
+              49.83832,
+              40.397582
+            ],
+            [
+              49.8384,
+              40.3968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-016",
+        "name": "Parcel ətrafı bina 16",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 96,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.8406,
+              40.3968
+            ],
+            [
+              49.8416,
+              40.39692
+            ],
+            [
+              49.84154,
+              40.39765
+            ],
+            [
+              49.840520000000005,
+              40.397582
+            ],
+            [
+              49.8406,
+              40.3968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-017",
+        "name": "Parcel ətrafı bina 17",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 96,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.842800000000004,
+              40.3968
+            ],
+            [
+              49.8438,
+              40.39692
+            ],
+            [
+              49.843740000000004,
+              40.39765
+            ],
+            [
+              49.84272000000001,
+              40.397582
+            ],
+            [
+              49.842800000000004,
+              40.3968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-018",
+        "name": "Parcel ətrafı bina 18",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 72,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.845000000000006,
+              40.3968
+            ],
+            [
+              49.846000000000004,
+              40.39692
+            ],
+            [
+              49.845940000000006,
+              40.39765
+            ],
+            [
+              49.84492000000001,
+              40.397582
+            ],
+            [
+              49.845000000000006,
+              40.3968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-019",
+        "name": "Parcel ətrafı bina 19",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 96,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.834,
+              40.3987
+            ],
+            [
+              49.835,
+              40.39882
+            ],
+            [
+              49.83494,
+              40.39955
+            ],
+            [
+              49.833920000000006,
+              40.399482
+            ],
+            [
+              49.834,
+              40.3987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-020",
+        "name": "Parcel ətrafı bina 20",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 36,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.836200000000005,
+              40.3987
+            ],
+            [
+              49.8372,
+              40.39882
+            ],
+            [
+              49.837140000000005,
+              40.39955
+            ],
+            [
+              49.83612000000001,
+              40.399482
+            ],
+            [
+              49.836200000000005,
+              40.3987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-021",
+        "name": "Parcel ətrafı bina 21",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 72,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.8384,
+              40.3987
+            ],
+            [
+              49.8394,
+              40.39882
+            ],
+            [
+              49.83934,
+              40.39955
+            ],
+            [
+              49.83832,
+              40.399482
+            ],
+            [
+              49.8384,
+              40.3987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-022",
+        "name": "Parcel ətrafı bina 22",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 54,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.8406,
+              40.3987
+            ],
+            [
+              49.8416,
+              40.39882
+            ],
+            [
+              49.84154,
+              40.39955
+            ],
+            [
+              49.840520000000005,
+              40.399482
+            ],
+            [
+              49.8406,
+              40.3987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-023",
+        "name": "Parcel ətrafı bina 23",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 36,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.842800000000004,
+              40.3987
+            ],
+            [
+              49.8438,
+              40.39882
+            ],
+            [
+              49.843740000000004,
+              40.39955
+            ],
+            [
+              49.84272000000001,
+              40.399482
+            ],
+            [
+              49.842800000000004,
+              40.3987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-P-024",
+        "name": "Parcel ətrafı bina 24",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 54,
+        "address": "Bakı / Parcel zonası",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.845000000000006,
+              40.3987
+            ],
+            [
+              49.846000000000004,
+              40.39882
+            ],
+            [
+              49.845940000000006,
+              40.39955
+            ],
+            [
+              49.84492000000001,
+              40.399482
+            ],
+            [
+              49.845000000000006,
+              40.3987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-001",
+        "name": "Yeni Günəşli bina 1",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.936,
+              40.378
+            ],
+            [
+              49.937,
+              40.37812
+            ],
+            [
+              49.93694,
+              40.3789
+            ],
+            [
+              49.93592,
+              40.378828
+            ],
+            [
+              49.936,
+              40.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-002",
+        "name": "Yeni Günəşli bina 2",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9382,
+              40.378
+            ],
+            [
+              49.9392,
+              40.37812
+            ],
+            [
+              49.93914,
+              40.3789
+            ],
+            [
+              49.938120000000005,
+              40.378828
+            ],
+            [
+              49.9382,
+              40.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-003",
+        "name": "Yeni Günəşli bina 3",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9404,
+              40.378
+            ],
+            [
+              49.941399999999994,
+              40.37812
+            ],
+            [
+              49.94134,
+              40.3789
+            ],
+            [
+              49.94032,
+              40.378828
+            ],
+            [
+              49.9404,
+              40.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-004",
+        "name": "Yeni Günəşli bina 4",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9426,
+              40.378
+            ],
+            [
+              49.943599999999996,
+              40.37812
+            ],
+            [
+              49.94354,
+              40.3789
+            ],
+            [
+              49.94252,
+              40.378828
+            ],
+            [
+              49.9426,
+              40.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-005",
+        "name": "Yeni Günəşli bina 5",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9448,
+              40.378
+            ],
+            [
+              49.9458,
+              40.37812
+            ],
+            [
+              49.94574,
+              40.3789
+            ],
+            [
+              49.944720000000004,
+              40.378828
+            ],
+            [
+              49.9448,
+              40.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-006",
+        "name": "Yeni Günəşli bina 6",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.947,
+              40.378
+            ],
+            [
+              49.948,
+              40.37812
+            ],
+            [
+              49.94794,
+              40.3789
+            ],
+            [
+              49.946920000000006,
+              40.378828
+            ],
+            [
+              49.947,
+              40.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-007",
+        "name": "Yeni Günəşli bina 7",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.936,
+              40.3797
+            ],
+            [
+              49.937,
+              40.37982
+            ],
+            [
+              49.93694,
+              40.3806
+            ],
+            [
+              49.93592,
+              40.380528
+            ],
+            [
+              49.936,
+              40.3797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-008",
+        "name": "Yeni Günəşli bina 8",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9382,
+              40.3797
+            ],
+            [
+              49.9392,
+              40.37982
+            ],
+            [
+              49.93914,
+              40.3806
+            ],
+            [
+              49.938120000000005,
+              40.380528
+            ],
+            [
+              49.9382,
+              40.3797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-009",
+        "name": "Yeni Günəşli bina 9",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9404,
+              40.3797
+            ],
+            [
+              49.941399999999994,
+              40.37982
+            ],
+            [
+              49.94134,
+              40.3806
+            ],
+            [
+              49.94032,
+              40.380528
+            ],
+            [
+              49.9404,
+              40.3797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-010",
+        "name": "Yeni Günəşli bina 10",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9426,
+              40.3797
+            ],
+            [
+              49.943599999999996,
+              40.37982
+            ],
+            [
+              49.94354,
+              40.3806
+            ],
+            [
+              49.94252,
+              40.380528
+            ],
+            [
+              49.9426,
+              40.3797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-011",
+        "name": "Yeni Günəşli bina 11",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9448,
+              40.3797
+            ],
+            [
+              49.9458,
+              40.37982
+            ],
+            [
+              49.94574,
+              40.3806
+            ],
+            [
+              49.944720000000004,
+              40.380528
+            ],
+            [
+              49.9448,
+              40.3797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-012",
+        "name": "Yeni Günəşli bina 12",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.947,
+              40.3797
+            ],
+            [
+              49.948,
+              40.37982
+            ],
+            [
+              49.94794,
+              40.3806
+            ],
+            [
+              49.946920000000006,
+              40.380528
+            ],
+            [
+              49.947,
+              40.3797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-013",
+        "name": "Yeni Günəşli bina 13",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.936,
+              40.3814
+            ],
+            [
+              49.937,
+              40.38152
+            ],
+            [
+              49.93694,
+              40.3823
+            ],
+            [
+              49.93592,
+              40.382228
+            ],
+            [
+              49.936,
+              40.3814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-014",
+        "name": "Yeni Günəşli bina 14",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9382,
+              40.3814
+            ],
+            [
+              49.9392,
+              40.38152
+            ],
+            [
+              49.93914,
+              40.3823
+            ],
+            [
+              49.938120000000005,
+              40.382228
+            ],
+            [
+              49.9382,
+              40.3814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-015",
+        "name": "Yeni Günəşli bina 15",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9404,
+              40.3814
+            ],
+            [
+              49.941399999999994,
+              40.38152
+            ],
+            [
+              49.94134,
+              40.3823
+            ],
+            [
+              49.94032,
+              40.382228
+            ],
+            [
+              49.9404,
+              40.3814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-016",
+        "name": "Yeni Günəşli bina 16",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9426,
+              40.3814
+            ],
+            [
+              49.943599999999996,
+              40.38152
+            ],
+            [
+              49.94354,
+              40.3823
+            ],
+            [
+              49.94252,
+              40.382228
+            ],
+            [
+              49.9426,
+              40.3814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-017",
+        "name": "Yeni Günəşli bina 17",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9448,
+              40.3814
+            ],
+            [
+              49.9458,
+              40.38152
+            ],
+            [
+              49.94574,
+              40.3823
+            ],
+            [
+              49.944720000000004,
+              40.382228
+            ],
+            [
+              49.9448,
+              40.3814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-018",
+        "name": "Yeni Günəşli bina 18",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.947,
+              40.3814
+            ],
+            [
+              49.948,
+              40.38152
+            ],
+            [
+              49.94794,
+              40.3823
+            ],
+            [
+              49.946920000000006,
+              40.382228
+            ],
+            [
+              49.947,
+              40.3814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-019",
+        "name": "Yeni Günəşli bina 19",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.936,
+              40.3831
+            ],
+            [
+              49.937,
+              40.38322
+            ],
+            [
+              49.93694,
+              40.384
+            ],
+            [
+              49.93592,
+              40.383928
+            ],
+            [
+              49.936,
+              40.3831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-020",
+        "name": "Yeni Günəşli bina 20",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9382,
+              40.3831
+            ],
+            [
+              49.9392,
+              40.38322
+            ],
+            [
+              49.93914,
+              40.384
+            ],
+            [
+              49.938120000000005,
+              40.383928
+            ],
+            [
+              49.9382,
+              40.3831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-021",
+        "name": "Yeni Günəşli bina 21",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9404,
+              40.3831
+            ],
+            [
+              49.941399999999994,
+              40.38322
+            ],
+            [
+              49.94134,
+              40.384
+            ],
+            [
+              49.94032,
+              40.383928
+            ],
+            [
+              49.9404,
+              40.3831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-022",
+        "name": "Yeni Günəşli bina 22",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9426,
+              40.3831
+            ],
+            [
+              49.943599999999996,
+              40.38322
+            ],
+            [
+              49.94354,
+              40.384
+            ],
+            [
+              49.94252,
+              40.383928
+            ],
+            [
+              49.9426,
+              40.3831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-023",
+        "name": "Yeni Günəşli bina 23",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9448,
+              40.3831
+            ],
+            [
+              49.9458,
+              40.38322
+            ],
+            [
+              49.94574,
+              40.384
+            ],
+            [
+              49.944720000000004,
+              40.383928
+            ],
+            [
+              49.9448,
+              40.3831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-024",
+        "name": "Yeni Günəşli bina 24",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.947,
+              40.3831
+            ],
+            [
+              49.948,
+              40.38322
+            ],
+            [
+              49.94794,
+              40.384
+            ],
+            [
+              49.946920000000006,
+              40.383928
+            ],
+            [
+              49.947,
+              40.3831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-025",
+        "name": "Yeni Günəşli bina 25",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 54,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.936,
+              40.3848
+            ],
+            [
+              49.937,
+              40.38492
+            ],
+            [
+              49.93694,
+              40.3857
+            ],
+            [
+              49.93592,
+              40.385628
+            ],
+            [
+              49.936,
+              40.3848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-026",
+        "name": "Yeni Günəşli bina 26",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9382,
+              40.3848
+            ],
+            [
+              49.9392,
+              40.38492
+            ],
+            [
+              49.93914,
+              40.3857
+            ],
+            [
+              49.938120000000005,
+              40.385628
+            ],
+            [
+              49.9382,
+              40.3848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-027",
+        "name": "Yeni Günəşli bina 27",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9404,
+              40.3848
+            ],
+            [
+              49.941399999999994,
+              40.38492
+            ],
+            [
+              49.94134,
+              40.3857
+            ],
+            [
+              49.94032,
+              40.385628
+            ],
+            [
+              49.9404,
+              40.3848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-028",
+        "name": "Yeni Günəşli bina 28",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9426,
+              40.3848
+            ],
+            [
+              49.943599999999996,
+              40.38492
+            ],
+            [
+              49.94354,
+              40.3857
+            ],
+            [
+              49.94252,
+              40.385628
+            ],
+            [
+              49.9426,
+              40.3848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-029",
+        "name": "Yeni Günəşli bina 29",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9448,
+              40.3848
+            ],
+            [
+              49.9458,
+              40.38492
+            ],
+            [
+              49.94574,
+              40.3857
+            ],
+            [
+              49.944720000000004,
+              40.385628
+            ],
+            [
+              49.9448,
+              40.3848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-030",
+        "name": "Yeni Günəşli bina 30",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.947,
+              40.3848
+            ],
+            [
+              49.948,
+              40.38492
+            ],
+            [
+              49.94794,
+              40.3857
+            ],
+            [
+              49.946920000000006,
+              40.385628
+            ],
+            [
+              49.947,
+              40.3848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-031",
+        "name": "Yeni Günəşli bina 31",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.936,
+              40.3865
+            ],
+            [
+              49.937,
+              40.38662
+            ],
+            [
+              49.93694,
+              40.3874
+            ],
+            [
+              49.93592,
+              40.387328
+            ],
+            [
+              49.936,
+              40.3865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-032",
+        "name": "Yeni Günəşli bina 32",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9382,
+              40.3865
+            ],
+            [
+              49.9392,
+              40.38662
+            ],
+            [
+              49.93914,
+              40.3874
+            ],
+            [
+              49.938120000000005,
+              40.387328
+            ],
+            [
+              49.9382,
+              40.3865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-033",
+        "name": "Yeni Günəşli bina 33",
+        "type": "building",
+        "category": "Bina",
+        "floors": 16,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9404,
+              40.3865
+            ],
+            [
+              49.941399999999994,
+              40.38662
+            ],
+            [
+              49.94134,
+              40.3874
+            ],
+            [
+              49.94032,
+              40.387328
+            ],
+            [
+              49.9404,
+              40.3865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-034",
+        "name": "Yeni Günəşli bina 34",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9426,
+              40.3865
+            ],
+            [
+              49.943599999999996,
+              40.38662
+            ],
+            [
+              49.94354,
+              40.3874
+            ],
+            [
+              49.94252,
+              40.387328
+            ],
+            [
+              49.9426,
+              40.3865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-035",
+        "name": "Yeni Günəşli bina 35",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 96,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.9448,
+              40.3865
+            ],
+            [
+              49.9458,
+              40.38662
+            ],
+            [
+              49.94574,
+              40.3874
+            ],
+            [
+              49.944720000000004,
+              40.387328
+            ],
+            [
+              49.9448,
+              40.3865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-G-036",
+        "name": "Yeni Günəşli bina 36",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 72,
+        "address": "Yeni Günəşli",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.947,
+              40.3865
+            ],
+            [
+              49.948,
+              40.38662
+            ],
+            [
+              49.94794,
+              40.3874
+            ],
+            [
+              49.946920000000006,
+              40.387328
+            ],
+            [
+              49.947,
+              40.3865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-001",
+        "name": "Xırdalan bina 1",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 72,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.732,
+              40.445
+            ],
+            [
+              49.73325,
+              40.44512
+            ],
+            [
+              49.733175,
+              40.446
+            ],
+            [
+              49.73192,
+              40.44592
+            ],
+            [
+              49.732,
+              40.445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-002",
+        "name": "Xırdalan bina 2",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 72,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7352,
+              40.445
+            ],
+            [
+              49.73645,
+              40.44512
+            ],
+            [
+              49.736375,
+              40.446
+            ],
+            [
+              49.73512,
+              40.44592
+            ],
+            [
+              49.7352,
+              40.445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-003",
+        "name": "Xırdalan bina 3",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7384,
+              40.445
+            ],
+            [
+              49.73965,
+              40.44512
+            ],
+            [
+              49.739575,
+              40.446
+            ],
+            [
+              49.73832,
+              40.44592
+            ],
+            [
+              49.7384,
+              40.445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-004",
+        "name": "Xırdalan bina 4",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7416,
+              40.445
+            ],
+            [
+              49.74285,
+              40.44512
+            ],
+            [
+              49.742775,
+              40.446
+            ],
+            [
+              49.74152,
+              40.44592
+            ],
+            [
+              49.7416,
+              40.445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-005",
+        "name": "Xırdalan bina 5",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7448,
+              40.445
+            ],
+            [
+              49.74605,
+              40.44512
+            ],
+            [
+              49.745975,
+              40.446
+            ],
+            [
+              49.74472,
+              40.44592
+            ],
+            [
+              49.7448,
+              40.445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-006",
+        "name": "Xırdalan bina 6",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.748,
+              40.445
+            ],
+            [
+              49.749249999999996,
+              40.44512
+            ],
+            [
+              49.749175,
+              40.446
+            ],
+            [
+              49.74792,
+              40.44592
+            ],
+            [
+              49.748,
+              40.445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-007",
+        "name": "Xırdalan bina 7",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.732,
+              40.447
+            ],
+            [
+              49.73325,
+              40.447120000000005
+            ],
+            [
+              49.733175,
+              40.448
+            ],
+            [
+              49.73192,
+              40.44792
+            ],
+            [
+              49.732,
+              40.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-008",
+        "name": "Xırdalan bina 8",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7352,
+              40.447
+            ],
+            [
+              49.73645,
+              40.447120000000005
+            ],
+            [
+              49.736375,
+              40.448
+            ],
+            [
+              49.73512,
+              40.44792
+            ],
+            [
+              49.7352,
+              40.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-009",
+        "name": "Xırdalan bina 9",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 72,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7384,
+              40.447
+            ],
+            [
+              49.73965,
+              40.447120000000005
+            ],
+            [
+              49.739575,
+              40.448
+            ],
+            [
+              49.73832,
+              40.44792
+            ],
+            [
+              49.7384,
+              40.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-010",
+        "name": "Xırdalan bina 10",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7416,
+              40.447
+            ],
+            [
+              49.74285,
+              40.447120000000005
+            ],
+            [
+              49.742775,
+              40.448
+            ],
+            [
+              49.74152,
+              40.44792
+            ],
+            [
+              49.7416,
+              40.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-011",
+        "name": "Xırdalan bina 11",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7448,
+              40.447
+            ],
+            [
+              49.74605,
+              40.447120000000005
+            ],
+            [
+              49.745975,
+              40.448
+            ],
+            [
+              49.74472,
+              40.44792
+            ],
+            [
+              49.7448,
+              40.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-012",
+        "name": "Xırdalan bina 12",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.748,
+              40.447
+            ],
+            [
+              49.749249999999996,
+              40.447120000000005
+            ],
+            [
+              49.749175,
+              40.448
+            ],
+            [
+              49.74792,
+              40.44792
+            ],
+            [
+              49.748,
+              40.447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-013",
+        "name": "Xırdalan bina 13",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.732,
+              40.449
+            ],
+            [
+              49.73325,
+              40.44912
+            ],
+            [
+              49.733175,
+              40.449999999999996
+            ],
+            [
+              49.73192,
+              40.44992
+            ],
+            [
+              49.732,
+              40.449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-014",
+        "name": "Xırdalan bina 14",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7352,
+              40.449
+            ],
+            [
+              49.73645,
+              40.44912
+            ],
+            [
+              49.736375,
+              40.449999999999996
+            ],
+            [
+              49.73512,
+              40.44992
+            ],
+            [
+              49.7352,
+              40.449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-015",
+        "name": "Xırdalan bina 15",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7384,
+              40.449
+            ],
+            [
+              49.73965,
+              40.44912
+            ],
+            [
+              49.739575,
+              40.449999999999996
+            ],
+            [
+              49.73832,
+              40.44992
+            ],
+            [
+              49.7384,
+              40.449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-016",
+        "name": "Xırdalan bina 16",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7416,
+              40.449
+            ],
+            [
+              49.74285,
+              40.44912
+            ],
+            [
+              49.742775,
+              40.449999999999996
+            ],
+            [
+              49.74152,
+              40.44992
+            ],
+            [
+              49.7416,
+              40.449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-017",
+        "name": "Xırdalan bina 17",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7448,
+              40.449
+            ],
+            [
+              49.74605,
+              40.44912
+            ],
+            [
+              49.745975,
+              40.449999999999996
+            ],
+            [
+              49.74472,
+              40.44992
+            ],
+            [
+              49.7448,
+              40.449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-018",
+        "name": "Xırdalan bina 18",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 72,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.748,
+              40.449
+            ],
+            [
+              49.749249999999996,
+              40.44912
+            ],
+            [
+              49.749175,
+              40.449999999999996
+            ],
+            [
+              49.74792,
+              40.44992
+            ],
+            [
+              49.748,
+              40.449
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-019",
+        "name": "Xırdalan bina 19",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 72,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.732,
+              40.451
+            ],
+            [
+              49.73325,
+              40.45112
+            ],
+            [
+              49.733175,
+              40.452
+            ],
+            [
+              49.73192,
+              40.45192
+            ],
+            [
+              49.732,
+              40.451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-020",
+        "name": "Xırdalan bina 20",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7352,
+              40.451
+            ],
+            [
+              49.73645,
+              40.45112
+            ],
+            [
+              49.736375,
+              40.452
+            ],
+            [
+              49.73512,
+              40.45192
+            ],
+            [
+              49.7352,
+              40.451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-021",
+        "name": "Xırdalan bina 21",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7384,
+              40.451
+            ],
+            [
+              49.73965,
+              40.45112
+            ],
+            [
+              49.739575,
+              40.452
+            ],
+            [
+              49.73832,
+              40.45192
+            ],
+            [
+              49.7384,
+              40.451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-022",
+        "name": "Xırdalan bina 22",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7416,
+              40.451
+            ],
+            [
+              49.74285,
+              40.45112
+            ],
+            [
+              49.742775,
+              40.452
+            ],
+            [
+              49.74152,
+              40.45192
+            ],
+            [
+              49.7416,
+              40.451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-023",
+        "name": "Xırdalan bina 23",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7448,
+              40.451
+            ],
+            [
+              49.74605,
+              40.45112
+            ],
+            [
+              49.745975,
+              40.452
+            ],
+            [
+              49.74472,
+              40.45192
+            ],
+            [
+              49.7448,
+              40.451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-024",
+        "name": "Xırdalan bina 24",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.748,
+              40.451
+            ],
+            [
+              49.749249999999996,
+              40.45112
+            ],
+            [
+              49.749175,
+              40.452
+            ],
+            [
+              49.74792,
+              40.45192
+            ],
+            [
+              49.748,
+              40.451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-025",
+        "name": "Xırdalan bina 25",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.732,
+              40.453
+            ],
+            [
+              49.73325,
+              40.453120000000006
+            ],
+            [
+              49.733175,
+              40.454
+            ],
+            [
+              49.73192,
+              40.453920000000004
+            ],
+            [
+              49.732,
+              40.453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-026",
+        "name": "Xırdalan bina 26",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 72,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7352,
+              40.453
+            ],
+            [
+              49.73645,
+              40.453120000000006
+            ],
+            [
+              49.736375,
+              40.454
+            ],
+            [
+              49.73512,
+              40.453920000000004
+            ],
+            [
+              49.7352,
+              40.453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-027",
+        "name": "Xırdalan bina 27",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7384,
+              40.453
+            ],
+            [
+              49.73965,
+              40.453120000000006
+            ],
+            [
+              49.739575,
+              40.454
+            ],
+            [
+              49.73832,
+              40.453920000000004
+            ],
+            [
+              49.7384,
+              40.453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-028",
+        "name": "Xırdalan bina 28",
+        "type": "building",
+        "category": "Bina",
+        "floors": 12,
+        "apartments": 72,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7416,
+              40.453
+            ],
+            [
+              49.74285,
+              40.453120000000006
+            ],
+            [
+              49.742775,
+              40.454
+            ],
+            [
+              49.74152,
+              40.453920000000004
+            ],
+            [
+              49.7416,
+              40.453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-029",
+        "name": "Xırdalan bina 29",
+        "type": "building",
+        "category": "Bina",
+        "floors": 5,
+        "apartments": 54,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.7448,
+              40.453
+            ],
+            [
+              49.74605,
+              40.453120000000006
+            ],
+            [
+              49.745975,
+              40.454
+            ],
+            [
+              49.74472,
+              40.453920000000004
+            ],
+            [
+              49.7448,
+              40.453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD-X-030",
+        "name": "Xırdalan bina 30",
+        "type": "building",
+        "category": "Bina",
+        "floors": 9,
+        "apartments": 30,
+        "address": "Xırdalan",
+        "status": "Aktiv"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.748,
+              40.453
+            ],
+            [
+              49.749249999999996,
+              40.453120000000006
+            ],
+            [
+              49.749175,
+              40.454
+            ],
+            [
+              49.74792,
+              40.453920000000004
+            ],
+            [
+              49.748,
+              40.453
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
